@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"SetCurrentLevel",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"SetCurrentLevel",
+  "parent":{
+    "name":"Map",
+    "path":"folders/Scripts/Map.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

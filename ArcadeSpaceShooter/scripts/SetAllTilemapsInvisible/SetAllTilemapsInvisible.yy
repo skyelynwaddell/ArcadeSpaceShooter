@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"SetAllTilemapsInvisible",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"SetAllTilemapsInvisible",
+  "parent":{
+    "name":"Map",
+    "path":"folders/Scripts/Map.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

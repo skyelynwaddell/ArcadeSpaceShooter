@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"ShootCooldown",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ShootCooldown",
+  "parent":{
+    "name":"Player",
+    "path":"folders/Scripts/Player.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
